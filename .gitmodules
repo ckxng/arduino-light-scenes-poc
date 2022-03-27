@@ -1,0 +1,3 @@
+[submodule "lib/LightShow"]
+	path = lib/LightShow
+	url = https://github.com/ckxng/arduino-LightShow.git
